@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaaa2944acc8ea34ea444c813c2ed9d7, type: 3}
+  m_Name: weaponspartlist
+  m_EditorClassIdentifier: 
+  weaponAttachmentPart:
+  - {fileID: 11400000, guid: f33a75ebffbb6bd428bb6980598dde9c, type: 2}
+  - {fileID: 11400000, guid: e70ce58d60013b440a21a460ada66dc2, type: 2}
+  - {fileID: 11400000, guid: 5cc52fa021ad90f41ad02009eb8f3bef, type: 2}
+  - {fileID: 11400000, guid: 2f2ced2704a8804438ea1e47202b839b, type: 2}
+  - {fileID: 11400000, guid: 6fc15b3c98e73dd4c92fa3fbd541ecdc, type: 2}
+  - {fileID: 11400000, guid: 252da590250b8654b87f355671c742c7, type: 2}
+  - {fileID: 11400000, guid: b91fc436fff654d4885a904dc997221d, type: 2}
+  - {fileID: 11400000, guid: 10679b81cbee2174ea3077701add1aee, type: 2}
+  - {fileID: 11400000, guid: 490766d13dc6d9f4882499632a87cf16, type: 2}
